@@ -1,0 +1,22 @@
+.m-percenter-nav .icon-edu-admin{background-position: -140px -240px!important;}
+.m-percenter-nav .icon-school-admin{background-position: -142px -201px!important;}
+.m-percenter-nav .icon-edu-admin-cur{background-position: -175px -240px!important;}
+.m-percenter-nav .icon-school-admin-cur{background-position: -179px -201px!important;}
+
+/* 教务权限表格 */
+.z-edu-power-table{width: 100%;}
+.z-edu-power-table .table-title tr{height:43px;background-color: #f5f5f5; font-size: 16px;color:#444;border:1px solid #e8e8e8;}
+.z-edu-power-table .table-title tr .label{width: 85%;padding-left: 80px;}
+.z-edu-power-table .table-title tr .operate{width: 15%;}
+.z-edu-power-table table{width: 100%;}
+.z-edu-power-table table thead .add-menu{width: 94px;height: 22px;line-height: 22px;border:1px solid #0ba299;border-radius: 3px;background-color: #fff;color: #0ba299;font-size: 12px;}
+.z-edu-power-table table .first-level-menu{background-color: #fff;color: #666;font-size: 14px;}
+.z-edu-power-table table .first-level-menu tr{height: 40px;}
+.z-edu-power-table table .first-level-menu tr .label{width: 85%;padding-left: 30px;}
+.z-edu-power-table table .first-level-menu tr .operate,.z-edu-power-table table .second-level-menu tr .operate{width: 15%;text-align: center;}
+.z-edu-power-table table .second-level-menu{background-color: #fbfbfb;font-size: 12px;color:#999;}
+.z-edu-power-table table .second-level-menu tr{height: 38px;}
+.z-edu-power-table table .second-level-menu tr .label{padding-left: 40px;}
+.z-edu-power-table .link{ margin: 0 6px;color: #0ba299;cursor: pointer;font-size: 12px;}
+.z-edu-power-table table td.label{border-left: 1px solid #e8e8e8;}
+.z-edu-power-table table td{border-bottom: 1px solid #e8e8e8;border-right: 1px solid #e8e8e8;}
