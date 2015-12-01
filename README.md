@@ -6,3 +6,5 @@ addCatalog为一个添加课程目录的插件。
 添加的过程中运用了弹窗框插件
 
 该插件运用了underscore的模板引擎功能
+
+页面链接  http://livi12.github.io/addCatalog/pages/index/index.html
